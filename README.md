@@ -1,4 +1,4 @@
-# Instagram Ad-hoc Analysis
+# Osiris-Foods Ad-hoc Analysis
 
 You are a data analyst at an NYC-based wholesale food supplier called Osiris-Foods. As part of your companies mission to make more data-driven decisions, you are tasked with generating an ad-hoc report on your companies database. You will report on descriptive statistics using SQL and generate respective visualizations using pandas to provide your company an overview of its' past performance.
 
